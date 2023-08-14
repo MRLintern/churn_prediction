@@ -48,8 +48,8 @@ The project is split into three main components:
 
 ### Instructions
 
-* Get the project: 
-  `$ git clone https://github.com/MRLintern/churn_prediction.git && cd churn-prediction`
+
+* `$ git clone https://github.com/MRLintern/churn_prediction.git && cd churn-prediction`
 * `$ jupyter notebook`
 
 You can copy/type in the code into cells and then run them. 
