@@ -49,13 +49,14 @@ The project is split into three main components:
 ### Instructions
 
 * Get the project: 
-`$ git clone https://github.com/MRLintern/churn_prediction.git`.
-* Copy (or type) in the code into a `Jupyter notebook` and run each cell individually.
+  `$ git clone https://github.com/MRLintern/churn_prediction.git && cd churn-prediction`
+* `$ jupyter notebook`
 
+You can copy/type in the code into cells and then run them. 
 
 ### TODO
-* Evaluation of the Metrics used for Customer Churn.
-* Deployment of the Logistic Model for Customer Churn.
+* **Evaluation of the Metrics used for Customer Churn**.
+* **Deployment of the Logistic Model for Customer Churn**.
 
 
 
