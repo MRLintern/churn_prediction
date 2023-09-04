@@ -14,7 +14,7 @@ This project is similar to the situation I described above, however, this is a h
 
 ### Data
 
-**Note**: the dataset is open-source and be found [here]("https://www.kaggle.com/datasets/blastchar/telco-customer-churn").
+**Note**: the dataset is open-source and be found [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
 The dataset consists of:
 
