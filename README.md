@@ -9,7 +9,7 @@ BY providing a good service for customers, e.g., solving their problem efficient
 That is, leave Tesco and shop somewhere else.
 
 <br>
-This project is similar to the situation I described above, however, this is a hypothetical telecom company that offers phone and internet services. The problem: Some of the Customers are __churning__. For example, these customers are no longer using the services an. Obviously this is the last thing a company wants. To stop this from happening, a system will need to be developed to identify these customers and offer them an incentive to stay. The best way for customer retention will be to use promotional messages and offer discounts on products/services. Its also important to understand why these customers are churning. To answer that, the ability to interpret the model's predictions will be needed. 
+This project is similar to the situation I described above, however, this is a hypothetical telecom company that offers phone and internet services. The problem: Some of the Customers are churning. For example, these customers are no longer using the services an. Obviously this is the last thing a company wants. To stop this from happening, a system will need to be developed to identify these customers and offer them an incentive to stay. The best way for customer retention will be to use promotional messages and offer discounts on products/services. Its also important to understand why these customers are churning. To answer that, the ability to interpret the model's predictions will be needed. 
 <br />
 
 ### Data
