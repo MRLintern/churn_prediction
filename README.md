@@ -41,7 +41,7 @@ The project is split into three main components:
 ### Tools
 
 * `Python 3.7`. Thats what was used but any `Python 3.x` will be fine.
-* `Jupyter Notebook`. Note: if you download `Anaconda`, `Jupyter Notebook` will come with it along with things like `Spider IDE`.
+* `Jupyter Notebook`. Note: if you download `Anaconda`, `Jupyter Notebook` will come with it along with things like the `Spider IDE`.
 * Text Editor: I used `Sublime Text` on `Ubuntu 20.04`. Any will do. E.g. `MS Visual Studio Code`, 
 * `scikit-learn` for the actual Machine Learning.
 
